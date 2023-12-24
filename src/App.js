@@ -8,7 +8,7 @@ export function App() {
       <div className="container">
         <Weather />
         <footer>
-          This project was coded by Akangbe kafilat and is <br />
+          This project was coded by Akangbe kafilat and is 
           <a
             href="https://github.com/Bisluv/reat-weather-app"
             target="_blank"
