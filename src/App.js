@@ -6,16 +6,16 @@ export function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather  defualtCity="Berlin" />
         <footer>
-          This project was coded by Akangbe kafilat and is 
+          This project was coded by Akangbe kafilat and is {" "}
           <a
             href="https://github.com/Bisluv/reat-weather-app"
             target="_blank"
             rel="noreferrer"
           >
             open-sourced on Github
-          </a>{" "}
+          </a>
           {""}
         </footer>
       </div>
